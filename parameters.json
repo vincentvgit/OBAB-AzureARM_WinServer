@@ -6,7 +6,7 @@
             "value": "westeurope"
         },
         "networkInterfaceName": {
-            "value": "winserver212"
+            "value": "winserver01"
         },
         "enableAcceleratedNetworking": {
             "value": true
@@ -104,13 +104,13 @@
             "value": "Delete"
         },
         "virtualMachineName": {
-            "value": "winserver"
+            "value": "vin-winserver"
         },
         "virtualMachineComputerName": {
             "value": "winserver"
         },
         "virtualMachineRG": {
-            "value": "ObabWinServer"
+            "value": "vin-WinServer"
         },
         "osDiskType": {
             "value": "Premium_LRS"
@@ -125,7 +125,7 @@
             "value": "Delete"
         },
         "adminUsername": {
-            "value": "obabuser"
+            "value": "vincent"
         },
         "adminPassword": {
             "value": null
